@@ -5,6 +5,7 @@ I'm passionate self-taught programmer with a love for creating innovative web an
 
 - 🇲🇦 I'm based in Morocco
 - 🔭 I’m currently working on a product lunch platform
+- 🌱 I’m currently taking Harvard's CS50 course
 
 <!--
 **monsef123/monsef123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
