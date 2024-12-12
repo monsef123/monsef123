@@ -1,12 +1,7 @@
 ## Hi, I'm Mounsif 👋
 
 ### About me
-I'm passionate self-taught programmer with a love for creating innovative web and mobile applications. Some more facts about me:
-
-- 🇲🇦 I'm based in Morocco
-- 🌱 Currently taking Harvard's CS50 course
-- 🔭 Working on a product launch platform (With a twist)
-
+I'm passionate self-taught programmer with a love for creating innovative web and mobile applications.
 <!--
 **monsef123/monsef123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
